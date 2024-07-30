@@ -23,7 +23,7 @@ const WorkTitle: React.FC<WorkTitleProps> = (props) => {
 };
 
 const StyledHeading = styled("div", {
- paddingTop: "300px"
+ paddingTop: "250px"
 });
 
 
