@@ -30,7 +30,7 @@ const defaultOptions = {
   },
   informationPanel: {
     open: true,
-    renderAbout: false,
+    renderAbout: true,
     renderToggle: true,
   },
   showTitle: false,
