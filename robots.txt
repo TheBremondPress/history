@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://TheBremondPress.github.io/history
+
+# Sitemaps
+Sitemap: https://TheBremondPress.github.io/history/sitemap.xml
