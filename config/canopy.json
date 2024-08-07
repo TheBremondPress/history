@@ -2,7 +2,7 @@
   "collection": "https://TheBremondPress.github.io/2008-tropy-static-iiif/index.json",
   "devCollection": "https://TheBremondPress.github.io/2008-tropy-static-iiif/index.json",
   "featured": [
-    "https://TheBremondPress.github.io/2008-tropy-static-iiif/the-bremond-press-hero/manifest.json"
+    "https://TheBremondPress.github.io/2008-tropy-static-iiif/new-hero-take-2/manifest.json"
   ],
   "metadata": ["Date"],
   "label": { "none": ["The Bremond Press"] },
