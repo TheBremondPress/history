@@ -12,7 +12,7 @@
   "theme": {
     "defaultTheme": "light",
     "accentColor": "red",
-    "grayColor": "sand",
+    "grayColor": "mauve",
     "radius": "small",
     "scaling": "100%"
   }
